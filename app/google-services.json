@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062272589521",
+    "firebase_url": "https://sms-accounts-90bb5.firebaseio.com",
+    "project_id": "sms-accounts-90bb5",
+    "storage_bucket": "sms-accounts-90bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062272589521:android:151bad382bcd494fdeaff0",
+        "android_client_info": {
+          "package_name": "com.example.sms_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062272589521-iv4ht6e63qsmbef7nck8dqlo8qerfldl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHj471VCqL9KURGrZWwsIAUfGhU8Fhm2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062272589521-iv4ht6e63qsmbef7nck8dqlo8qerfldl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
